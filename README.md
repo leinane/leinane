@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @leinane
 - 🔭 Estou em trasição de carreira para área da tecnologia
 - 🌱 Estou estudando Java, Html, Css
-- 💞️ I’m looking to collaborate on JavaScript, NodeJs
 - 📫 Contate-me pelo email: leinanesantos24@gmail.com
 
 <div align="center">
