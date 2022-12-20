@@ -24,10 +24,9 @@
   
   
   ##
-  <div>
-    
+      
     ![Snake animation](https://github.com/leinane/leinane/blob/output/github-contribution-grid-snake.svg)
     
-  </div>
+  
   
   
