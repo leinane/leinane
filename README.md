@@ -20,12 +20,12 @@
   <img align="center" alt="Leinane-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" >    
    <img align="center" alt="Leinane-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" >     
     <img align="right" alt="Leinane-foto "height="300" width="310"  style="border-radius:50px;" src="https://img.freepik.com/vetores-premium/mulher-afro-trabalhando-no-laptop-ou-computador-em-casa-com-uma-xicara-de-cafe-conceito-de-escritorio-em-casa-uma-mulher-trabalhando-em-casa-estudante-ou-freelancer-ilustracao-vetorial-estilo-plano-trabalho-remoto-freelance_419010-656.jpg?w=740">
+     ![Snake animation](https://github.com/leinane/leinane/blob/output/github-contribution-grid-snake.svg)
   </div> 
   
   
   ##
       
-    ![Snake animation](https://github.com/leinane/leinane/blob/output/github-contribution-grid-snake.svg)
     
   
   
